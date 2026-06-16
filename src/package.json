@@ -1,0 +1,14 @@
+{
+  "name": "store-data-on-cell-proof",
+  "version": "1.0.0",
+  "description": "Campaign submission: Store Data on Cell tutorial proof",
+  "scripts": {
+    "proof": "node campaign-proof.js"
+  },
+  "keywords": ["ckb", "nervos", "blockchain"],
+  "author": "zuhdev",
+  "license": "MIT",
+  "dependencies": {
+    "@ckb-ccc/core": "^1.5.3"
+  }
+}
