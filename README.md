@@ -1,8 +1,5 @@
 # Build on CKB — Campaign 02: Store Data on Cell
 
-**Quest:** Complete the OffCKB quick start and Store Data on Cell tutorial.  
-**Submitted by:** [zuhdev](https://github.com/zuhdev)  
-**Date:** 2026-06-16
 
 ---
 
